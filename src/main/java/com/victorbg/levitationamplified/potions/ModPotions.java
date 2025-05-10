@@ -16,9 +16,9 @@ public class ModPotions {
     public static final RegistryEntry<Potion> LONG_LEVITATION_POTION = registerPotion("long_levitation_potion",
             new Potion("long_levitation_potion", new StatusEffectInstance(StatusEffects.LEVITATION, 3200, 1)));
     public static final RegistryEntry<Potion> STRONG_LEVITATION_POTION = registerPotion("strong_levitation_potion",
-            new Potion("strong_levitation_potion", new StatusEffectInstance(StatusEffects.LEVITATION, 1440, 3)));
+            new Potion("strong_levitation_potion", new StatusEffectInstance(StatusEffects.LEVITATION, 1440, 4)));
     public static final RegistryEntry<Potion> STRONG_LONG_LEVITATION_POTION = registerPotion("strong_long_levitation_potion",
-            new Potion("strong_long_levitation_potion", new StatusEffectInstance(StatusEffects.LEVITATION, 2560, 3)));
+            new Potion("strong_long_levitation_potion", new StatusEffectInstance(StatusEffects.LEVITATION, 2560, 4)));
 
     private static RegistryEntry<Potion> registerPotion(String name, Potion potion) {
         return Registry.registerReference(Registries.POTION, Identifier.of(LevitationAmplified.MOD_ID, name), potion);
