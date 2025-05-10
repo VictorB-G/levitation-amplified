@@ -1,0 +1,22 @@
+{
+  "item.minecraft.potion.effect.levitation_potion" : "Poción de levitación",
+  "item.minecraft.splash_potion.effect.levitation_potion" : "Poción de levitación arrojadiza",
+  "item.minecraft.lingering_potion.effect.levitation_potion" : "Poción de levitación persistente",
+
+  "item.minecraft.potion.effect.long_levitation_potion" : "Poción de levitación",
+  "item.minecraft.splash_potion.effect.long_levitation_potion" : "Poción de levitación arrojadiza",
+  "item.minecraft.lingering_potion.effect.long_levitation_potion" : "Poción de levitación persistente",
+
+  "item.minecraft.potion.effect.strong_levitation_potion" : "Poción de levitación",
+  "item.minecraft.splash_potion.effect.strong_levitation_potion" : "Poción de levitación arrojadiza",
+  "item.minecraft.lingering_potion.effect.strong_levitation_potion" : "Poción de levitación persistente",
+
+  "item.minecraft.potion.effect.strong_long_levitation_potion" : "Poción de levitación",
+  "item.minecraft.splash_potion.effect.strong_long_levitation_potion" : "Poción de levitación arrojadiza",
+  "item.minecraft.lingering_potion.effect.strong_long_levitation_potion" : "Poción de levitación persistente",
+
+  "item.minecraft.tipped_arrow.effect.levitation_potion": "Flecha de Levitación",
+  "item.minecraft.tipped_arrow.effect.long_levitation_potion": "Flecha de Levitación",
+  "item.minecraft.tipped_arrow.effect.strong_levitation_potion": "Flecha de Levitación",
+  "item.minecraft.tipped_arrow.effect.strong_long_levitation_potion": "Flecha de Levitación"
+}

@@ -1,0 +1,22 @@
+{
+  "item.minecraft.potion.effect.levitation_potion" : "Levitation Potion",
+  "item.minecraft.splash_potion.effect.levitation_potion" : "Splash Levitation Potion",
+  "item.minecraft.lingering_potion.effect.levitation_potion" : "Lingering Levitation Potion",
+
+  "item.minecraft.potion.effect.long_levitation_potion" : "Levitation Potion",
+  "item.minecraft.splash_potion.effect.long_levitation_potion" : "Splash Levitation Potion",
+  "item.minecraft.lingering_potion.effect.long_levitation_potion" : "Lingering Levitation Potion",
+
+  "item.minecraft.potion.effect.strong_levitation_potion" : "Levitation Potion",
+  "item.minecraft.splash_potion.effect.strong_levitation_potion" : "Splash Levitation Potion",
+  "item.minecraft.lingering_potion.effect.strong_levitation_potion" : " LingeringLevitation Potion",
+
+  "item.minecraft.potion.effect.strong_long_levitation_potion" : "Levitation Potion",
+  "item.minecraft.splash_potion.effect.strong_long_levitation_potion" : "Splash Levitation Potion",
+  "item.minecraft.lingering_potion.effect.strong_long_levitation_potion" : "Lingering Levitation Potion",
+
+  "item.minecraft.tipped_arrow.effect.levitation_potion": "Arrow of Levitation",
+  "item.minecraft.tipped_arrow.effect.long_levitation_potion": "Arrow of Levitation",
+  "item.minecraft.tipped_arrow.effect.strong_levitation_potion": "Arrow of Levitation",
+  "item.minecraft.tipped_arrow.effect.strong_long_levitation_potion": "Arrow of Levitation"
+}
